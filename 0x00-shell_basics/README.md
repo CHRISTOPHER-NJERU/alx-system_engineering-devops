@@ -1,0 +1,1 @@
+Thi is Readme.md for 0*01-shell basics
